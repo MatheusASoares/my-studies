@@ -6,7 +6,7 @@ export function QrCode() {
       <div className="flex flex-col items-center justify-center space-y-5 bg-white rounded-xl p-3 max-w-xs mx-auto">
         <div className="rounded-xl overflow-hidden">
           <Image
-            src="/my-studies/images/qrcode.png"
+            src="/images/qrcode.png"
             alt="Qr Code"
             width={350}
             height={350}
