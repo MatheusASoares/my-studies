@@ -11,6 +11,11 @@ module.exports = {
       lightGray: "hsl(212, 45%, 89%)",
       grayishBlue: "hsl(220, 15%, 55%)",
       darkBlue: "hsl(218, 44%, 22%)",
+      profileBlue: "hsl(228, 45%, 44%)",
+      profileBackground: "hsl(185, 75%, 39%)",
+      profileDarkBlue: "hsl(229, 23%, 23%)",
+      profileGrayishBlue: "hsl(227, 10%, 46%)",
+      profileDarkGray: "hsl(0, 0%, 59%)",
     },
     screens: {
       xs: "375px",
@@ -30,6 +35,9 @@ module.exports = {
 
       "2xl": "1440px",
       // => @media (min-width: 1440px) { ... }
+
+      "4xl": "1860px",
+      // => @media (min-width: 1860px) { ... }
     },
   },
   plugins: [],
