@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export function QrCode() {
   return (
-    <main className="container flex justify-center items-center h-screen gap-1 bg-lightGray">
-      <div className="flex flex-col items-center justify-center space-y-5 bg-white rounded-3xl p-3 max-w-xs gap-1">
+    <main className="container flex justify-center items-center h-screen max-w-screen-3xl bg-lightGray">
+      <div className="flex flex-col items-center justify-center bg-white rounded-3xl p-3 max-w-xs gap-4">
         <div className="rounded-3xl overflow-hidden">
           <Image
             src="/images/qr/qrcode.png"
