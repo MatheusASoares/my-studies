@@ -12,7 +12,7 @@ export function QrCode() {
             height={350}
           />
         </div>
-        <div className="flex flex-col justify-center items-center w-auto gap-1">
+        <div className="flex flex-col justify-center items-center w-auto gap-4">
           <h1 className="text-center text-xl font-bold text-darkBlue">
             Improve your front-end skills by building projects
           </h1>

@@ -39,7 +39,7 @@ module.exports = {
       "3xl": "1860px",
       // => @media (min-width: 1860px) { ... }
 
-      "4xl": "1900px",
+      "4xl": "2000px",
       // => @media (min-width: 1900px) { ... }
     },
   },
